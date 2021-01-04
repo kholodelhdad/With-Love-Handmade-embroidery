@@ -1,0 +1,159 @@
+
+body{
+    background-color: #d6b9ea;
+    margin: 0;
+    padding: 0;
+    
+}
+
+.logo-background{ 
+    background-color:#d6b3ff ;
+    background-image: url(images/banner\ wallpaper.jpg);
+    text-align: left;
+}
+
+.logo{
+   margin-left:5px;
+   margin-bottom: 0;
+   width: 100px;
+   height: 100px;
+ 
+}
+
+.banner{
+    background-color:#e7c1d2;
+    height: 45px;
+    text-align: center;
+    border-top-style: double;
+    border-bottom-style: double;
+    border-color:#dfa7c1;
+    word-spacing: 30px;
+    
+   
+}
+
+a{
+    padding: 10px;
+    font-size: 29px;
+    font-style: italic;
+    color: #6e213d;
+    text-decoration: none;
+    font-family:'Yellowtail', cursive;
+   
+}
+
+.whatimade{
+    word-spacing: 0.50px;
+}
+
+a:hover
+{
+    color: #ab77c9;
+    border-bottom-style: solid;
+    border-color:#6e213d;
+    border-radius: 35%;
+    
+}
+
+.wholebody{
+    float: left;
+    margin: 20px;
+    margin-top: 1px;
+}
+/*  
+.leftcol{
+    background-color: #e7c1d2;
+    width: 300px;
+    height: 500px;
+    float: left;
+    margin: 30px;
+    border-style: double;
+    border-color:#dfa7c1;
+
+}*/
+
+
+.bodyitself{
+    background-color:#d6b9ea;
+    width: 710px;
+    height: 1000px;
+    float: left;
+    margin: 30px 5px 10px 5px;
+    border-style: double;
+    border-color:#dfa7c1;
+
+}
+.content{
+    font-size: 30px;
+    color:#6e213d ;
+    text-align: center;
+    margin: 20px;
+    font-family: 'Redressed', cursive ;
+    font-style: italic;
+    text-indent: 25px;
+    line-height: 50px;
+}/*
+hr{
+    text-align: center;
+    width: 200px;
+    margin-top: 5px;
+}*/
+.rightcol{
+    background-color:  #e7c1d2;
+    width: 300px;
+    height: 500px;
+    float: right;
+    margin: 30px;
+    border-style: double;
+    border-color:#dfa7c1;
+   
+}
+.start{
+    background-color:  #d6b9ea;
+    height: 35px;
+    font-style: italic;
+    font-size: 25px;
+    text-align: center;
+    border-style: double;
+    border-color: #6e213d;
+}
+/*  
+.images{   
+    margin-top: 50px;
+    text-align: center;
+   
+}*/
+/*
+
+[alt="hoop"]{
+    width: 210px;
+    height: 210px;
+    margin: 5px;
+    border-style:double;
+    border-color: #6e213d;;
+    
+}*/
+.Quotes{
+    color:#6e213d ;
+    margin-top: 20px;
+    text-align: center;
+    font-family: 'Redressed', cursive;
+    font-size: 25px;
+    font-style: italic;
+    user-select: none;
+    
+   
+}
+.Quotes hr{
+    text-align: center;
+    width: 175px;
+    margin-top: 5px;
+   
+
+}
+blockquote{
+    margin-left: 157px;
+}
+
+}
+
